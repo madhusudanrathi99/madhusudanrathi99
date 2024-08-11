@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Rathi</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">I am a passionate and versatile software developer with a robust academic foundation in computer applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudanrathi99&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudanrathi99" /> </p>
 
